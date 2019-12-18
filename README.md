@@ -1,11 +1,11 @@
-Descripcion: 
+# Descripción 
 
 El proyecto cuenta con varios servicios y cada servicio utiliza es una
 aplicacion con nodejs y express. 
 Docker levanta cada servicio de forma independiente en un container
 y estos se pueden comunicar.
 
-Tecnologias:
+# Tecnologias
 
 Nodejs
 Express
